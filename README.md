@@ -1,3 +1,2 @@
-# avaliadoresSimilaridade
-Código utilizado para pesquisa. 
-O código-fonte dos avaliadores de similaridade são de origem de https://github.com/matheusgr/pycomparecode/. Para o desenvolvimento da pesquisa foram realizadas adaptações e também a inserção da bib para CSV (Comma-separated values).
+# walgprog-2016
+Dados do artigo "Uso de algoritmos de similaridade para classificar códigos de acordo com a taxonomia SOLO em disciplinas de programação introdutória" submetido para o WAlgProg/2016
